@@ -3,8 +3,8 @@
     "variant-e@banking-parser": {
       "updates": [
         {
-          "version": "2.3.1",
-          "update_link": "https://raw.githubusercontent.com/Shtirlitz/ve-updates/main/variant-e-2.3.1-signed.xpi"
+          "version": "2.3.2",
+          "update_link": "https://raw.githubusercontent.com/Shtirlitz/ve-updates/main/variant-e-2.3.2-signed.xpi"
         }
       ]
     }
