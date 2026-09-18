@@ -33,6 +33,10 @@
         {
           "version": "2.3.9",
           "update_link": "https://raw.githubusercontent.com/Shtirlitz/ve-updates/main/variant-e-2.3.9-signed.xpi"
+        },
+        {
+          "version": "2.3.10",
+          "update_link": "https://raw.githubusercontent.com/Shtirlitz/ve-updates/main/variant-e-2.3.10-signed.xpi"
         }
       ]
     }
